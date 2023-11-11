@@ -62,9 +62,7 @@ Personalized challenges based on user preferences and fitness goals.]
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+[No tab]
 
 **Flow Navigation** (Screen to Screen)
 
