@@ -1,4 +1,4 @@
-Original App Design Project - README Template
+Week 8 
 ===
 
 # HealthSync IOS
