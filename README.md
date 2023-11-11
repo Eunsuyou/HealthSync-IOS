@@ -68,7 +68,34 @@ Personalized challenges based on user preferences and fitness goals.]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [No Tabs]
+- [Onboarding Screen ]
+- [Introduction to HealthSync and account creation.
+=> Dashboard]
+
+[Dashboard]
+- Real-time health analytics and personalized insights.
+=> Community Feed
+=> Challenges Hub
+=> User Profile
+
+[Community Feed]
+- User interactions, achievements, and shared experiences.
+<= Dashboard
+=> Challenges Hub
+=> User Profile
+
+[Challenges Hub]
+Gamified challenges with rewards and leaderboards.
+<= Dashboard
+<= Community Feed
+=> User Profile
+
+[User Profile]
+Personalized user profile with fitness achievements and data.
+<= Dashboard
+<= Community Feed
+<= Challenges Hub
+<= Dashboard
 
 ## Wireframes
 
