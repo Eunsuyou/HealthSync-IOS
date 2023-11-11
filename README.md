@@ -18,7 +18,6 @@ Week 8
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category**:HealthSync is for anyone who wants a personalized fitness experience. It's ideal for both fitness enthusiasts and beginners who want a holistic approach to health. The app is designed for those who value real-time health insights, community support, and enjoy a gamified approach to achieving fitness goals.
 - **Mobile**:HealthSync is unique because it easily connects with smart fitness devices, providing users with instant data and insights on their mobile devices. The app has a user-friendly design, making it easy for users to track and optimize their health. It's tailored for users on the move, offering a sophisticated yet straightforward interface for managing their health and fitness journey.
 - **Story**:HealthSync's mobile version tells a story of empowering users in their health journey. It focuses on giving people a complete view of their well-being through real-time analytics and a supportive community. The app emphasizes staying motivated, reaching fitness milestones, and enjoying a gamified experience, all accessible on the go. HealthSync stands out by offering empowerment, achievement, and community engagement.
